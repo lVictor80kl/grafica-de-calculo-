@@ -19,7 +19,7 @@ def figura(solucion):
 
     plt.show()
 def resuelve():
-    """Aqui se resuelve el sistema de equaciones"""
+    """Aqui se resuelve el sistema de ecuaciones"""
     
     A = np.array([[-2, 5, 9], [7, 3, 2], [-3, 7, -2]])
     B = np.array([1, 6, -26])
